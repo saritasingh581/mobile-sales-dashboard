@@ -15,43 +15,34 @@ This project showcases a data-driven approach to understanding mobile phone sale
    - Payment Method Breakdown  
    - Responsive Filters for city, brand, and date  
 
-🛠️ Tools Used
+🛠️ Tools Used  
 
-Microsoft Power BI Desktop
+  - Microsoft Power BI Desktop  
+  - DAX (Data Analysis Expressions)  
+  - Power Query (M Language)  
+  - Custom Power BI Visuals  
+  - Excel/CSV data source  
 
-DAX (Data Analysis Expressions)
+📂 Repository Structure    
 
-Power Query (M Language)
-
-Custom Power BI Visuals
-
-Excel/CSV data source
-
-📂 Repository Structure
-📁 Mobile-Sales-Dashboard/
-├── 📊 Mobile_Sales_Dashboard.pbix
-├── 📁 data/
-│   └── sales_data_sample.xlsx
-├── 📁 screenshots/
-│   └── dashboard_preview.png
-└── 📄 README.md
+  ├── 📊 Mobile_Sales_Dashboard.pbix  
+  ├── 📁 data/  
+  │   └── sales_data_sample.xlsx  
+  ├── 📁 screenshots/  
+  │   └── dashboard_preview.png  
+  └── 📄 README.md  
 
 📷 Preview
 
-🚀 How to Run
+🚀 How to Run  
 
-Download or clone the repository
+  1. Download or clone the repository  
+  2. Open Mobile_Sales_Dashboard.pbix in Power BI Desktop  
+  3. Refresh or replace the data if necessary    
+  4. Interact with the dashboard using filters and visuals  
 
-Open Mobile_Sales_Dashboard.pbix in Power BI Desktop
+📊 Data Source  
 
-Refresh or replace the data if necessary
-
-Interact with the dashboard using filters and visuals
-
-📊 Data Source
-
-Simulated sales data representing mobile transactions in India
-
-No personal or sensitive information used
-
-Created for learning and demonstration purposes
+  - Simulated sales data representing mobile transactions in India  
+  - No personal or sensitive information used  
+  - Created for learning and demonstration purposes  
