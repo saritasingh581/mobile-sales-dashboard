@@ -19,7 +19,7 @@ This project showcases a data-driven approach to understanding mobile phone sale
 
   - Microsoft Power BI Desktop  
   - DAX (Data Analysis Expressions)  
-  - Power Query (M Language)  
+  - Power Query  
   - Custom Power BI Visuals  
   - Excel/CSV data source  
 
@@ -31,8 +31,6 @@ This project showcases a data-driven approach to understanding mobile phone sale
   ├── 📁 screenshots/  
   │   └── dashboard_preview.png  
   └── 📄 README.md  
-
-📷 Preview
 
 🚀 How to Run  
 
